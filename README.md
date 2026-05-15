@@ -58,7 +58,7 @@ Built using **Python 3.10**, **Gradio**, and **OpenRouter’s unified API**, it 
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/Tanmay1112004/multi-model-ai-image-analyzer.git
+git clone https://github.com//multi-model-ai-image-analyzer.git
 cd multi-model-ai-image-analyzer
 ````
 
