@@ -21,7 +21,9 @@ Built using **Python 3.10**, **Gradio**, and **OpenRouter’s unified API**, it 
 ## 🖼️ Demo Preview
 
 ![App Screenshot](https://github.com/Tanmay1112004/AI-Vision-Assistant/blob/main/%F0%9F%8C%9F%20AI%20Vision%20Assistant/screenshots/Screenshot%202025-10-09%20160727.png)
+
 ![App Screenshot](https://github.com/Tanmay1112004/AI-Vision-Assistant/blob/main/%F0%9F%8C%9F%20AI%20Vision%20Assistant/screenshots/Screenshot%202025-10-09%20160834.png)
+
 ![App Screenshot](https://github.com/Tanmay1112004/AI-Vision-Assistant/blob/main/%F0%9F%8C%9F%20AI%20Vision%20Assistant/screenshots/Screenshot%202025-10-09%20160935.png)
 
 
