@@ -75,7 +75,7 @@ pip install -r requirements.txt
 Edit `app.py` and replace:
 
 ```python
-OPENROUTER_API_KEY = "YOUR_API_KEY"
+OPENROUTER_API_KEY = "Enter_Your_API_Key"
 ```
 
 Get your key from 👉 [https://openrouter.ai](https://openrouter.ai)
